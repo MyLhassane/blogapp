@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'مدونة مولاي حسن MyLhassane Blog'
+
+pagination.pagerSize = 5
+
+[params]
+  description = "The fastest blog"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+	category = "categories"
+  author = "authors"

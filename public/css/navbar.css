@@ -1,0 +1,41 @@
+:root{
+    --bg: #0b1529;
+    --bgSoft: #1f3050;
+    --text: #dee4eb;
+    --textSoft: #cbd2d9;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 16px;
+}
+
+
+@media (max-width: 768px){
+    .links{
+        font-size: 12px;
+    }
+}
+
+.searchButton{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: var(--bgSoft);
+    color: var(--textSoft);
+    padding: 5px 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on مدونة مولاي حسن MyLhassane Blog</title>
+    <link>https://example.org/authors/</link>
+    <description>Recent content in Authors on مدونة مولاي حسن MyLhassane Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Oct 2025 11:53:47 +0100</lastBuildDate>
+    <atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hassan</title>
+      <link>https://example.org/authors/hassan/</link>
+      <pubDate>Tue, 21 Oct 2025 11:53:47 +0100</pubDate>
+      <guid>https://example.org/authors/hassan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jamal</title>
+      <link>https://example.org/authors/jamal/</link>
+      <pubDate>Sat, 04 Oct 2025 14:29:33 +0100</pubDate>
+      <guid>https://example.org/authors/jamal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ayman</title>
+      <link>https://example.org/authors/ayman/</link>
+      <pubDate>Fri, 03 Oct 2025 14:29:33 +0100</pubDate>
+      <guid>https://example.org/authors/ayman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morad</title>
+      <link>https://example.org/authors/morad/</link>
+      <pubDate>Thu, 02 Oct 2025 14:29:33 +0100</pubDate>
+      <guid>https://example.org/authors/morad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mohammed</title>
+      <link>https://example.org/authors/mohammed/</link>
+      <pubDate>Wed, 01 Oct 2025 11:41:57 +0100</pubDate>
+      <guid>https://example.org/authors/mohammed/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
