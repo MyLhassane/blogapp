@@ -4,6 +4,8 @@ title = 'مدونة مولاي حسن MyLhassane Blog'
 
 pagination.pagerSize = 5
 
+publishDir = "docs"
+
 [params]
   description = "The fastest blog"
   dateFormat = "Jan 2, 2006"
@@ -11,3 +13,5 @@ pagination.pagerSize = 5
 [taxonomies]
 	category = "categories"
   author = "authors"
+
+
