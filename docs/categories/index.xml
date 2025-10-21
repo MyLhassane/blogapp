@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on مدونة مولاي حسن MyLhassane Blog</title>
-    <link>https://example.org/categories/</link>
+    <link>https://mylhassane.github.io/blogapp/categories/</link>
     <description>Recent content in Categories on مدونة مولاي حسن MyLhassane Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Oct 2025 11:53:47 +0100</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mylhassane.github.io/blogapp/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General</title>
-      <link>https://example.org/categories/general/</link>
+      <link>https://mylhassane.github.io/blogapp/categories/general/</link>
       <pubDate>Tue, 21 Oct 2025 11:53:47 +0100</pubDate>
-      <guid>https://example.org/categories/general/</guid>
+      <guid>https://mylhassane.github.io/blogapp/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Simple</title>
-      <link>https://example.org/categories/simple/</link>
+      <link>https://mylhassane.github.io/blogapp/categories/simple/</link>
       <pubDate>Sun, 05 Oct 2025 14:29:33 +0105</pubDate>
-      <guid>https://example.org/categories/simple/</guid>
+      <guid>https://mylhassane.github.io/blogapp/categories/simple/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jamal on مدونة مولاي حسن MyLhassane Blog</title>
-    <link>https://example.org/authors/jamal/</link>
+    <link>https://mylhassane.github.io/blogapp/authors/jamal/</link>
     <description>Recent content in Jamal on مدونة مولاي حسن MyLhassane Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Oct 2025 14:29:33 +0100</lastBuildDate>
-    <atom:link href="https://example.org/authors/jamal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mylhassane.github.io/blogapp/authors/jamal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
-      <link>https://example.org/posts/my-fourth-post/</link>
+      <link>https://mylhassane.github.io/blogapp/posts/my-fourth-post/</link>
       <pubDate>Sat, 04 Oct 2025 14:29:33 +0100</pubDate>
-      <guid>https://example.org/posts/my-fourth-post/</guid>
+      <guid>https://mylhassane.github.io/blogapp/posts/my-fourth-post/</guid>
       <description>&lt;p&gt;Test content&lt;/p&gt;</description>
     </item>
   </channel>
